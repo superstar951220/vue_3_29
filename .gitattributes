@@ -3,3 +3,4 @@ work_kna.zip filter=lfs diff=lfs merge=lfs -text
 access.log.zip filter=lfs diff=lfs merge=lfs -text
 agent.log.zip filter=lfs diff=lfs merge=lfs -text
 5.log.rar filter=lfs diff=lfs merge=lfs -text
+0526-log.zip filter=lfs diff=lfs merge=lfs -text
