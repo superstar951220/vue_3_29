@@ -8,3 +8,4 @@ vpn.rar filter=lfs diff=lfs merge=lfs -text
 20250611.zip filter=lfs diff=lfs merge=lfs -text
 20250618.zip filter=lfs diff=lfs merge=lfs -text
 20250618_1.zip filter=lfs diff=lfs merge=lfs -text
+20250628.zip filter=lfs diff=lfs merge=lfs -text
